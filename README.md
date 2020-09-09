@@ -2,7 +2,8 @@
 
 > 一个简单的vue练手项目，主要练习vue组件化和组件之间的值传递
 
-## 1. 效果图
+## 1. 预览
+[访问地址](https://mewcoder.github.io/todolist-vue/)
 
 ![效果图](https://i.loli.net/2020/09/09/YMJCqDAG8etxBTs.png)
 
