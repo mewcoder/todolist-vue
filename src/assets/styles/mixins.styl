@@ -1,0 +1,27 @@
+cleanDefaultStyle()
+  appearance: none
+  border: none
+  outline: none
+
+btn(c, border = false)
+  padding: 0 10px
+  border-radius: 5px
+  cursor: pointer
+  appearance: none
+  border: none
+  outline: none
+  font-size: 17px
+  color: rgb(80, 80, 80)
+  font-weight: bold
+
+  if (border == true)
+    border: 1px solid c
+  else
+    background-color: c
+    color: #fff
+
+primaryBtn()
+  btn(#19CAAD, true)
+
+activeBtn()
+  btn(#19CAAD)
