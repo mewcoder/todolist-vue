@@ -2,14 +2,12 @@
 
 > 一个简单的vue练手项目，主要练习vue组件化和组件之间的值传递
 
-## 1. 效果图
+## 1. 预览
+[在线访问地址](https://mewcoder.github.io/todolist-vue/)
 
 ![效果图](https://i.loli.net/2020/09/09/YMJCqDAG8etxBTs.png)
 
-
 ## 2. 说明
-
-
 ### 1. 使用Vue脚手架vue-cli搭建项目
 
 安装：
@@ -32,7 +30,6 @@ vue init webpack
 npm install -D stylus stylus-loader
 ```
 
-
 ### 3. 下载运行
 1. 安装依赖
 ```
@@ -47,6 +44,7 @@ npm dev
 npm build
 ```
 
+<<<<<<< HEAD
 ## 3.静态文件部署
 
 ### 1.静态预览
@@ -89,6 +87,8 @@ npm run deploy
 ```
 
 
+---
 > 参考来源
 > 1. http://blog.brojie.cn/web/todolist
 > 2. https://github.com/Elgar17/vue_Todo
+---
