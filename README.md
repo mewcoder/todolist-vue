@@ -67,7 +67,7 @@ npm build
 ```
 
 ### 2.部署到GitHub Pages
-> 原理就是建个分支，把build出的dist下的文件放到分支上，然后设置到github.io下
+> 原理就是建个分支，把build出的dist下的静态文件放到分支上，然后设置到xxxx.github.io/ 下
 
 1.安装gh-pages
 ```
